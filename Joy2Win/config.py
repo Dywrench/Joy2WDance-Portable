@@ -8,7 +8,7 @@ class Config:
         "orientation": 0,
         "led_player": "0001",
         "save_mac_address": False,
-        "enable_dsu": False,
+        "enable_dsu": True,
         "mouse_mode": 0,
         "mac_address": "FFFFFFFFFFFF"
     }

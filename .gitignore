@@ -1,0 +1,47 @@
+# Python environments
+.venv/
+**/.venv/
+venv/
+**/venv/
+
+# Python cache
+__pycache__/
+**/__pycache__/
+*.py[cod]
+
+# Local configuration
+joydance/config.cfg
+Joy2Win/config.ini
+
+# Backup files
+*.bak
+*.bak*
+*.backup
+*.old
+
+# Editors and operating systems
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Backup files
+*.bak
+*.bak*
+*.backup
+*.old
+
+# Python cache
+__pycache__/
+**/__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+**/.venv/
+venv/
+**/venv/
+
+# Local configuration
+joydance/config.cfg
+Joy2Win/config.ini
